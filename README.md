@@ -4,7 +4,7 @@
 This project utilizes machine learning and artificial intelligence techniques to analyze social media user engagement based on various factors such as sentiment, likes, retweets, and hashtags. The goal is to understand user behavior and identify patterns that contribute to higher engagement on social media platforms.
 
 ## Installation and Set-up
-This project can either be executed either on your local machines using Jupyter Notebook or using Google Colab.
+This project can either be executed on your local machines using Jupyter Notebook or using Google Colab.
 
 ### Using Google Colab
 1. Go to the following [link](https://colab.research.google.com/) to use Google Colab.
@@ -16,7 +16,7 @@ This project can either be executed either on your local machines using Jupyter 
 ![googlecolab3](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/googlecolab3.png)
 4. While executing the following code snippet, you will be presented with a prompt. 
 ![gdrivecodesnippet](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/gdrivecodesnippet.png)
-For the code snippet to work, you need to allow Google Colab to access your Google Drive to access the csv dataset file present on your google drive.
+For the code snippet to work, you need to allow Google Colab to access your Google Drive to access the CSV dataset file present on your Google Drive.
    - Permit the Notebook to access the google drive. Click "Connect to Drive".
    ![gdrive1](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/gdrive1.png)
    - Choose the Google Account you are working on.
@@ -66,6 +66,7 @@ The performance of the model is evaluated using classification report metrics su
 
 ## Contribution
 Contributions to this project are welcome! If you have any suggestions, bug fixes, or improvements, please feel free to open an issue or submit a pull request.
+For any queries reach me at [anujeshbansaltoo@gmail.com](anujeshbansaltoo@gmail.com)
 
 ## Acknowledgments
 Special thanks to the contributors and developers of the libraries and tools used in this project, including pandas, scikit-learn, matplotlib, and seaborn.
