@@ -39,7 +39,7 @@ For the code snippet to work, you need to allow Google Colab to access your Goog
 
 ## Dataset
 The dataset used in this project (`sentimentdataset.csv`) contains social media posts with information such as timestamp, sentiment, likes, retweets, and hashtags. The Dataset was taken from Kaggle. Link for the dataset used is given [here.](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset/data)
-![kaggle](kaggle.png)
+![kaggle](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/kaggle.png)
 
 ## Models
 The project employs a RandomForestClassifier model to analyze user engagement based on various features extracted from social media posts.
@@ -49,16 +49,16 @@ The performance of the model is evaluated using classification report metrics su
 
 ## Visualizations
 1. **Time of Day Distribution**: Shows the distribution of user posts based on time of day, categorized as day or night.
-![Time of Day](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Visualization/tod.png)
+![Time of Day](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Visualization/tod.png)
 
 2. **Correlation Heatmap**: Visualizes the correlation between different features of the dataset.
-![Correlation Heatmap](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Visualization/corr.png)
+![Correlation Heatmap](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Visualization/corr.png)
 
 3. **Feature Importance Plot**: Illustrates the importance of various features in the RandomForestClassifier model.
-![Feature Importance](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Visualization/rfc.png)
+![Feature Importance](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Visualization/rfc.png)
 
 4. **Top Hashtags with Maximum User Engagement**: Displays the top hashtags with the highest average combined user engagement scores.
-![Top Hashtags](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Visualization/tophash.png)
+![Top Hashtags](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Visualization/tophash.png)
 
 ## Authors
 
