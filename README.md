@@ -8,7 +8,7 @@ This project can either be executed either on your local machines using Jupyter 
 
 ### Using Google Colab
 1. Go to the following [link](https://colab.research.google.com/) to use Google Colab.
-![googlecolab1](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Extras/googlecolab1.png)
+![googlecolab1](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/Extras/googlecolab1.png)
 2. Clone the repository.
 4. Go to File option in the Menu Bar and click on "Open Notebook" to open the ipynb file saved on your device. Conversely, you can also use the Keyboard shortcut Ctrl+O.
 ![googlecolab2](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Extras/googlecolab2.png)
