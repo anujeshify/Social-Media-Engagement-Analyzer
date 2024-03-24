@@ -1,4 +1,4 @@
-# ML and AI Project README
+# Social Media Engagement Analyzer
 
 ## Introduction
 This project utilizes machine learning and artificial intelligence techniques to analyze social media user engagement based on various factors such as sentiment, likes, retweets, and hashtags. The goal is to understand user behavior and identify patterns that contribute to higher engagement on social media platforms.
