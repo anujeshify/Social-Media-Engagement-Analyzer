@@ -8,23 +8,23 @@ This project can either be executed either on your local machines using Jupyter 
 
 ### Using Google Colab
 1. Go to the following [link](https://colab.research.google.com/) to use Google Colab.
-![googlecolab1](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/Extras/googlecolab1.png)
+![googlecolab1](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/gdrive1.png)
 2. Clone the repository.
 4. Go to File option in the Menu Bar and click on "Open Notebook" to open the ipynb file saved on your device. Conversely, you can also use the Keyboard shortcut Ctrl+O.
-![googlecolab2](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Extras/googlecolab2.png)
+![googlecolab2](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/googlecolab2.png)
 3. Click on "Upload" and select the downloaded ipynb file from the cloned repository.
-![googlecolab3](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Extras/googlecolab3.png)
+![googlecolab3](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/googlecolab3.png)
 4. While executing the following code snippet, you will be presented with a prompt. 
-![gdrivecodesnippet](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Extras/gdrivecodesnippet.png)
+![gdrivecodesnippet](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/gdrivecodesnippet.png)
 For the code snippet to work, you need to allow Google Colab to access your Google Drive to access the csv dataset file present on your google drive.
    - Permit the Notebook to access the google drive. Click "Connect to Drive".
-   ![gdrive1](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Extras/gdrive1.png)
+   ![gdrive1](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/gdrive1.png)
    - Choose the Google Account you are working on.
-   ![gdrive2](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Extras/gdrive2.png)
+   ![gdrive2](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/gdrive2.png)
    - Sign in to Google Drive for Desktop by clicking "Continue".
-   ![gdrive3](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Extras/gdrive3.png)
+   ![gdrive3](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/gdrive3.png)
    - Allow additional access to Google account. [Read the Consent Summary carefully]
-   ![gdrive4](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/master/Extras/gdrive4.png)
+   ![gdrive4](https://github.com/anujeshify/Social-Media-Engagement-Analyzer/blob/main/Extras/gdrive4.png)
 
 
 ### Using Jupyter Notebook
